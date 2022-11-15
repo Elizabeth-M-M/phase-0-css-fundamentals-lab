@@ -2,4 +2,33 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+nav a{
+  padding:0 10px;
+  background-color: gray;
+}
+figcaption{
+  font-size: 13px;
+}
+img{
+  width: 900px;
+  margin: auto;
+}
+#featured-property p{
+  width: 800px;
+  margin: 20px auto;
+}
+#details{
+  color: white;
+}
+div {
+  float: left;
+  width: 25%;
+  background-color: rgb(90, 28, 28);
 }
